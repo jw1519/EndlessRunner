@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638626949618800167
+      ticks: 638627002713831835
     m_Hash: 3778483079
   m_LockFileStatus:
     m_FilePath: K:/JW1519/EndlessRunner/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638626949618861731
+      ticks: 638627002714034992
     m_Hash: 2320712448
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}

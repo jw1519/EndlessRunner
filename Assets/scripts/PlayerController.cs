@@ -7,13 +7,6 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.D))
-        {
-            
-        }
-        if (Input.GetKeyDown(KeyCode.A))
-        {
-
-        }
+        if 
     }
 }
